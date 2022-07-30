@@ -651,7 +651,7 @@ height: calc(100% + 18px);
   text-align: center;
   font-size: 19px;
   padding: 20px;
-  width: 100%;
+  width: 800px;
   height: 300px
   transition: all 0.5s;
   cursor: pointer;
