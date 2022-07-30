@@ -1302,7 +1302,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 @media screen and (min-width: 600px) {
   .button1 {
-    width: 100%;
+    width: 200px;
     height: 220px;
   }
 }
