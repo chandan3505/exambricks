@@ -661,7 +661,7 @@ height: calc(100% + 18px);
 .button1 span {
   cursor: pointer;
   display: inline-block;
-  position: relative;
+  position: absolute;
   transition: 0.5s;
 }
 
@@ -912,7 +912,6 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 {
   .button1 
   {
-    
   border-radius: 4px;
   background-color: #d0def5;
   border: none;
@@ -920,7 +919,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   text-align: center;
   font-size: 19px;
   padding: 20px;
-  margin: -30px -30px 20px -30px;
+  width: 300px;
   height: 300px
   transition: all 0.5s;
   cursor: pointer;
