@@ -1304,12 +1304,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   .button1 {
     width: 100%;
     height: 220px;
-    position: absolute;
-margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;
-text-align: center;
+    
   }
 }
 
